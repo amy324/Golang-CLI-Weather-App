@@ -38,9 +38,9 @@ WeatherCLI is a command-line tool that allows users to quickly fetch and display
 
 1\. Clone the repository:
 
-```bash\
-git clone https://github.com/yourusername/weather-cli.git
-cd weather-cli
+```bash
+https://github.com/amy324/Golang-CLI-Weather-App
+cd Golang-CLI-Weather-App
 ```
 
 2\. Set up your OpenWeatherMap API key:
@@ -51,7 +51,7 @@ cd weather-cli
 3\. Build and install the CLI tool:
 
 ```bash\
-go build -o weather-cli main.go
+go build -o Golang-CLI-Weather-App  main.go
 ```
 
 ## Usage
