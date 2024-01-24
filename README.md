@@ -14,8 +14,7 @@ A simple command-line tool to retrieve weather information.
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
