@@ -19,7 +19,7 @@ A simple command-line tool to retrieve weather information.
 
 ## Overview
 
-WeatherCLI is a command-line tool that allows users to quickly fetch and display weather information for a given location.
+This CLI app is a command-line tool that allows users to quickly fetch and display weather information for a given location.
 
 ## Features
 
@@ -55,7 +55,7 @@ go build -o Golang-CLI-Weather-App  main.go
 
 ## Usage
 
-To get weather information for your location, run:
+To get weather information for your location or a city of your choice, run:
 
 ```bash\
 .go run main.go
