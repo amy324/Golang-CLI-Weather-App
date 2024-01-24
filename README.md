@@ -2,7 +2,7 @@
 
 # Golang Weather CLI App
 
-A simple command-line tool to retrieve weather information.
+A command-line tool to retrieve weather information.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ This CLI app is a command-line tool that allows users to quickly fetch and displ
 
 ### Prerequisites
 
-* Be sure to have G9 installed on your machine
+* Be sure to have Go installed on your machine
 * OpenWeatherMap API key (instructions on obtaining one are [here](https://openweathermap.org/appid))
 * Install any dependencies 
 
