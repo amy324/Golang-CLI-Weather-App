@@ -1,6 +1,6 @@
 
 
-# WeatherCLI
+# Golang Weather CLI App
 
 A simple command-line tool to retrieve weather information.
 
