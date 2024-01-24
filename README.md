@@ -45,8 +45,8 @@ cd Golang-CLI-Weather-App
 
 2\. Set up your OpenWeatherMap API key:
 
-   - Copy the `.env.example` file to a new file named `.env`.
-   - Replace `YOUR_API_KEY` in the `.env` file with your actual OpenWeatherMap API key.
+   * Copy the `.env.example` file to a new file named `.env`.
+   * Replace `YOUR_API_KEY` in the `.env` file with your actual OpenWeatherMap API key.
 
 3\. Build and install the CLI tool:
 
