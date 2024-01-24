@@ -23,16 +23,16 @@ WeatherCLI is a command-line tool that allows users to quickly fetch and display
 
 ## Features
 
-- Retrieve current weather information based on location.
-- Supports both automatic detection of the user's location and manual entry.
+* Retrieve current weather information based on location.
+* Supports both automatic detection of the user's location and manual entry.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Be sure to have G9 installed on your machine
-- OpenWeatherMap API key (instructions on obtaining one are [here](https://openweathermap.org/appid))
-- Install any dependencies 
+* Be sure to have G9 installed on your machine
+* OpenWeatherMap API key (instructions on obtaining one are [here](https://openweathermap.org/appid))
+* Install any dependencies 
 
 ### Installation
 
