@@ -2,7 +2,7 @@
 
 # Golang Weather CLI App
 
-A command-line tool to retrieve weather information.
+A command-line tool to retrieve weather information. A comprehensive demonstration of building a Golang CLI app to retrieve web API data based on user input.
 
 ## Table of Contents
 
